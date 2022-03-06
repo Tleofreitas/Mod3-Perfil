@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
 
+/* ELEMENTS */
 * { box-sizing: border-box;}
 
 html, body { padding: 0;
@@ -7,6 +8,10 @@ margin: 0;
 font-family: "Montserrat", sans-serif;
 }
 
+footer { height: 120px;
+background-color: #2C3E50;}
+
+/* CLASSES, ID's */
 .nav-container { background-color: #2C3E50;
 height: 100px;
 width: 100%;
