@@ -90,3 +90,7 @@ margin-top: 30px;}
 .social-container img { width: 32px;
 height: 32px;
 margin: 10px;}
+
+@media(min-width: 576px) {
+    html { font-size: 20px;}
+}
